@@ -1,9 +1,9 @@
 ---
-title: Picnic
+title: Stellar Loyalty Home
 layout: page
 ---
 
-## Picnic
+## Stellar Docs
 
 Picnic is a documentation template for Jekyll that came to life out of the need of having a simple and elegant way to write, view, and search documentation for projects of all sizes.
 
