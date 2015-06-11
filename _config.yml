@@ -24,12 +24,12 @@ include: ["_assets", "_search.json"]
 
 # Project specific
 # Remember to change these!
-baseurl:      /picnic
-title:        Picnic
-tagline:      Documentation template for Jekyll
-description:  Picnic is a documentation template for Jekyll made by @kasperisager
-url:          http://kasperisager.github.io/picnic
+baseurl:      /docs
+title:        Stellar Documentation
+tagline:      Better Revenue. Better Relationships. Better Loyalty.
+description:  Documentation for Stellar Loyalty applications and platform.
+url:          http://loyalsphere.github.io/docs/
 
 author:
-  name:       Kasper Isager
-  url:        https://github.com/kasperisager
+  name:       Manoj Das
+  url:        https://github.com/manojdas
