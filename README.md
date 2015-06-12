@@ -1,4 +1,21 @@
-# Picnic
+# Getting Started Working on Stellar Documentation
+## Basics
+Work in the branch gh-pages. That's the branch that is shown to public.
+
+For simple edits, can just go to https://github.com/LoyalSphere/docs, change branch from master (default) to gh-pages, find the relevant file (index.md in appropriate folder), and edit it.
+
+If you work more often, clone GIT to local using Clone in Desktop button at the above page.
+
+## Jekyll
+If you want to preview your changes before you commit to GIT, you need to use Jekyll locally.
+
+a. bundle install (from docs directory)
+b. bundle exec jekyll serve
+c. http://localhost:4000/docs/
+
+
+## Picnic
+Stellar Docs repository was forked from Picnic.
 
 Picnic is a documentation template for Jekyll that came to life out of the need of having a simple and elegant way to write, view, and search documentation for projects of all sizes.
 
