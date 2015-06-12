@@ -1,4 +1,4 @@
-# Getting Started Working on Stellar Documentation
+# Getting Started
 ## Basics
 Work in the branch gh-pages. That's the branch that is shown to public.
 
