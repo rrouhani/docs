@@ -1,5 +1,7 @@
 # Getting Started
 ## Basics
+**Workflow TBD**
+
 Work in the branch gh-pages. That's the branch that is shown to public.
 
 For simple edits, can just go to https://github.com/LoyalSphere/docs, change branch from master (default) to gh-pages, find the relevant file (index.md in appropriate folder), and edit it.
@@ -9,9 +11,9 @@ If you work more often, clone GIT to local using Clone in Desktop button at the 
 ## Jekyll
 If you want to preview your changes before you commit to GIT, you need to use Jekyll locally.
 
-a. bundle install (from docs directory)
-b. bundle exec jekyll serve
-c. http://localhost:4000/docs/
+1. bundle install (from docs directory)
+2. bundle exec jekyll serve
+3. http://localhost:4000/docs/
 
 
 ## Picnic
