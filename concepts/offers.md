@@ -17,7 +17,7 @@ Offers are a type of program content and refer to [content guide](./content) to 
 
 
 ## Offer Action Types
-* Barcode - 
+* Barcode - **TBD**
 
 * URL - 
 
